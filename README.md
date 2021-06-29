@@ -1,6 +1,7 @@
 # teapot-rasterizer
 ## A custom 3d model display for an Apple II, written in Applesoft BASIC as a short project. 
 Renders wireframes 3d models in Applesoft BASIC for an Apple II. Includes the Utah Teapot model by default.
+
 <img width="557" alt="Screen Shot 2021-06-28 at 9 04 53 PM" src="https://user-images.githubusercontent.com/28445400/123721508-7f540f80-d854-11eb-851e-eac13082efe3.png">
 
 For a quick demo, paste the file basic_program.txt into https://www.calormen.com/jsbasic/, an online Apple II emulator.
